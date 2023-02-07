@@ -42,10 +42,12 @@ export const SIDEBAR: Sidebar = {
       { text: "v0.2.1", link: "es/2022/v021" },
       { text: "v0.3.3", link: "es/2022/v033" },
       { text: "v0.4.4", link: "es/2022/v044" },
+      { text: "v0.5.6", link: "es/2022/v056" },
+      { text: "v0.6.0", link: "es/2022/v060" },
+      { text: "v0.6.1", link: "es/2022/v061" },
+      { text: "v0.7.4", link: "es/2022/v074" },
+      { text: "v0.8.5", link: "es/2022/v085" },
     ],
-    "2023": [
-      { text: "Page 2", link: "es/page-2" },
-      { text: "Page 3", link: "es/page-3" },
-    ],
+    "2023": [],
   },
 };
