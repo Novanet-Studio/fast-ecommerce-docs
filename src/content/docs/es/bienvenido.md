@@ -20,5 +20,5 @@ Si desea volver a la vista de inicio, haga click en cualquiera de los elementos 
 ### ¿Qué significan los apartados de cada versión? 📖
 
 - ✨ _Destacados_ muestra los cambios mas relevantes de dicha versión.
-- ⚠️ _Cambios importantes_ muestra los cambios disruptivos que cambian la función de la aplicación.
+- ⚠️ _Cambios importantes_ muestra los cambios disruptivos que afectan las funciones de la aplicación.
 - 🔗 _Enlace archivos_ contiene los vínculos a los commits relacionados con item de las listas numéricas.

@@ -47,7 +47,11 @@ export const SIDEBAR: Sidebar = {
       { text: "v0.6.1", link: "es/2022/v061" },
       { text: "v0.7.4", link: "es/2022/v074" },
       { text: "v0.8.5", link: "es/2022/v085" },
+      { text: "v1.0.0", link: "es/2022/v100" },
+      { text: "v1.2.1", link: "es/2022/v121" },
+      { text: "v1.3.2", link: "es/2022/v132" },
+      { text: "v1.3.3", link: "es/2022/v133" },
     ],
-    "2023": [],
+    "2023": [{ text: "v1.4.3", link: "es/2023/v143" }],
   },
 };
