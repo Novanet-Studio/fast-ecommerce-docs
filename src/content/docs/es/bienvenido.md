@@ -9,7 +9,7 @@ Historial de las versiones y cambios realizados en el desarrollo de la aplicaci�
 
 Este changelog contiene el registro principal por versiones del desarrollo Front-end de Tienda en Mano.
 
-### ¿Cómo utlizar el changelog? 🤔
+### ¿Cómo utilizar el changelog? 🤔
 
 ⬅️ Las versiones están organizadas cronológicamente en el menú lateral de la izquierda y muestran su contenido de forma separada en cada uno de los vínculos.
 
