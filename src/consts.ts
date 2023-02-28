@@ -1,5 +1,5 @@
 export const SITE = {
-  title: 'Novanet Studio - Tienda en mano changelog',
+  title: 'Novanet Studio',
   description: 'Changelog aplicación web Tienda en Mano',
   defaultLanguage: 'en-ve',
 } as const;
