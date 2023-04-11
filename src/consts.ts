@@ -41,6 +41,6 @@ export const SIDEBAR: Sidebar = {
       { text: 'v2.0.0', link: 'es/2022/v2-0-0' },
       { text: 'v2.1.0', link: 'es/2022/v2-1-0' },
     ],
-    '2023': [{ text: 'v2.10.0', link: 'es/2023/v2-10-0' }],
+    '2023': [{ text: 'v2.1.1', link: 'es/2023/v2-1-1' }],
   },
 };
